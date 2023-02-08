@@ -2,4 +2,4 @@
 
 ### Dupla:
   - Carlos Eduardo Xavier Bezerra
-  - Elygledson José
+  - Elygledson José da Silva Bezerra
